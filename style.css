@@ -71,6 +71,10 @@
    padding: 12px 0;
    margin-top: 20px;
    background: #927dfc;
+   background: rgb(63,94,251);
+   background: rgb(2,0,36);
+   background: rgb(23,45,252);
+   background: linear-gradient(90deg, rgba(23,45,252,1) 0%, rgba(4,199,240,1) 49%, rgba(29,0,255,0.9893207282913166) 100%);
    border: none;
    border-radius: 8px;
    cursor: pointer;
