@@ -1,6 +1,6 @@
 # <h1>Password-Generator</h1>
 
-Website Link: https://oasispassowordgen.netlify.app/
+Website Link: https://passowordgenrex.netlify.app/
 
 click the above link to open the Password Generator
 
